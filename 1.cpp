@@ -15,3 +15,8 @@ int sed()
 {
     return 2;
 }
+int eee()
+{
+
+    return 3;
+}
